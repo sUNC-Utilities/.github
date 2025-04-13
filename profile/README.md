@@ -1,4 +1,4 @@
-# sUNC
+# 🎉 sUNC
 
 Welcome to the sUNC GitHub Organisation!
 
